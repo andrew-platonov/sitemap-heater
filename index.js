@@ -1,7 +1,6 @@
 var https = require('https');
 var xml2js = require('xml2js');
 
-
 const sitemap = "https://feolavka.ru/sitemap.xml";
 const host = "feolavka.ru";
 const base = "https://feolavka.ru";
